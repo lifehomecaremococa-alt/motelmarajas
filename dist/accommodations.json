@@ -1,0 +1,56 @@
+{
+  "economico": {
+    "name": "Apartamentos Econômicos",
+    "label": "Econômico",
+    "numbers": [
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      19,
+      20
+    ],
+    "intro": "Ambientes acolhedores para uma pausa a dois. Conheça cada apartamento e escolha o seu favorito."
+  },
+  "simples": {
+    "name": "Apartamentos Simples",
+    "label": "Simples",
+    "numbers": [
+      1,
+      2,
+      23,
+      24,
+      28,
+      29,
+      30
+    ],
+    "intro": "Diferentes estilos, o mesmo convite para sair da rotina. Explore os detalhes de cada ambiente."
+  },
+  "hidro": {
+    "name": "Apartamentos Hidro",
+    "label": "Hidro",
+    "numbers": [
+      6,
+      8,
+      9,
+      10,
+      22,
+      27
+    ],
+    "intro": "Uma experiência com hidromassagem para desacelerar e aproveitar o seu momento."
+  },
+  "marajas": {
+    "name": "Suítes Marajás",
+    "label": "Marajás",
+    "numbers": [
+      5,
+      13,
+      18,
+      21,
+      26
+    ],
+    "intro": "Ambientes de personalidade para um encontro especial. As suítes 13 e 18 contam com piscina; a 05 tem decoração temática."
+  }
+}
